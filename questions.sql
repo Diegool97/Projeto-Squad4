@@ -1,4 +1,4 @@
--- 1° Qual é a data do time mais antigo da NBA?
+-- 1° Quais são os times mais antigos da NBA e o mais recente?
 SELECT 
 	nickname, yearfounded 
 FROM 

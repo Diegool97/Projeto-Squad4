@@ -1,3 +1,4 @@
+<div id="topo"</div>
 <div align="center"> <h1> 4° Projeto em Grupo – Banco de Dados </h1> 
 
 <h3> Tema: Visualizando a situação </h3> </div>
@@ -94,5 +95,5 @@ apresentação com a exploração dos dados.
 <br>
 
 <div align="center">
-  &#11165;&nbsp;<a href="#inicio"><strong>Voltar ao topo</strong></a>&nbsp;&#11165;
+  &#11165;&nbsp;<a href="#topo"><strong>Voltar ao início</strong></a>&nbsp;&#11165;
 </div>

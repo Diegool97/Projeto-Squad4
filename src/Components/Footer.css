@@ -17,55 +17,48 @@
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.footer .equipe .img-equipe {
-    width: 120px;
-    height: 120px;
-    border-radius:100px ;
-
-    margin-left: 30px;
-    justify-content: center;
-align-items: center;
-}
-
-.footer .equipe .icon-img{
-    width: 120px;
-    height: 120px;
-    border-radius:100px ;
-    position: relative;
-    top: -20px;
-  background-color: var(--cor2);
-text-align: center;
-
-
-}
-
-.footer .equipe .icon-img a{
-
-    color: transparent;position: absolute;
-    width: 120px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 120px;
-    border-radius:100px ;
-    text-decoration: none;
-    font-size: 0.8em;
-    font-weight: bold;
-}
-
-.footer .equipe .icon-img a:hover{
-    transition: 0.4s;
-  color: var(--cor1);
-  background-color: var(--cor7);
-
-}
-
-.footer .equipe .icon-img img{
   
 }
 
-.footer .equipe .icon-img img:hover{
+.footer .equipe .img-equipe{
+position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    background-color: var(--cor2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+}
 
+.footer .equipe .img-equipe img{
+    width: 140px;
+    height: 140px;
+    border-radius: 140px;
+}
+
+
+.footer .equipe .img-equipe a{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+ color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 0px;
+    top: 0px;
+   text-decoration: none;
+   font-size: 0.8em;
+   font-weight: bold;
+ 
+
+}
+
+.footer .equipe .img-equipe a:hover{
+    background-color: var(--cor7);
+    color:var(--cor5) ;
+    transition: 0.4s;
 }

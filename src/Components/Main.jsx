@@ -11,7 +11,7 @@ function Main() {
   return (
     <main>   <div className="image-main" style={{backgroundImage:`url(${imageMain})`}} >
     <div className="opacity">
-    <div className="text-image-principal">
+    <div className="text-image-principal"  data-aos="fade-right" data-aos-offset="500" data-aos-delay="300" data-aos-easing="ease-in-sine">
            <div className="NBA">
                <h1 className='N'>N</h1>
                <h1 className='B'>B</h1>
@@ -28,24 +28,24 @@ function Main() {
     </div>
    </div>
    
-   <div className="NBA-info">
-        <section className='info1'>
+   <div className="NBA-info"  >
+        <section className='info1'  >
                 <img src={LogoMaior} alt="" />
         <h1>National Basketball Association (NBA)</h1>
     </section>
 
-     <section className='info2'>
-        <div className="infos-text">
+     <section className='info2' >
+        <div className="infos-text" >
             <img src={Bola} alt="" />
             <h3>Um dos maiores esportes do mundo</h3>
         </div>
         <div className="infos-text">
             <img src={trofeu} alt="" />
-            <h3>Um dos maiores esportes do mundo</h3>
+            <h3>League com maior reconhecimento</h3>
         </div>
         <div className="infos-text">
             <img src={jogador} alt="" />
-            <h3>Um dos maiores esportes do mundo</h3>
+            <h3>Onde estao os melhore jogadores do mundo</h3>
         </div>
      </section>
   

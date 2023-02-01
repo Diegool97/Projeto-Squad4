@@ -129,3 +129,47 @@ aside h3{
     font-style: italic;
 }
 
+/* CARDS */
+
+.card-main{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.card{display: flex;
+flex-direction: column;
+width: 70%;
+max-width: 1000px;
+min-width: 500px;
+height: 600px;
+margin-bottom: 100px;
+}
+
+.card .img-card{
+    width: 100%;
+    display: flex;
+ 
+}
+
+.card .img-card img{
+    width: 100%;
+}
+
+.card .text-info-card{
+    height: 100%;
+    background-color: var(--cor1);
+    color: var(--cor2);
+    padding: 20px;
+}
+
+
+hr{
+    border: 1px solid var(--cor7);
+    width: 99.8%;
+    position: relative;
+   bottom: 50px;
+}

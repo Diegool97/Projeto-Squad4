@@ -1,7 +1,6 @@
 import HeaderMain from './Components/Header'
 import MainProject from './Components/Main'
-import CardRigth from './Components/CardRigth'
-import CardLeft from './Components/CardLeft'
+
  import FooterProject  from './Components/Footer'
 import './App.css';
 
@@ -16,10 +15,7 @@ function App() {
 
      <main>
       <MainProject/>
-      <CardRigth/>
-      <CardLeft />
-      <CardRigth/>
-      <CardLeft />
+   
       </main>
   
 

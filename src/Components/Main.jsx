@@ -99,7 +99,7 @@ function Main() {
   
         
         </div>
-        <hr />
+    
     
     
     </div> 

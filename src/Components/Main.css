@@ -102,10 +102,11 @@ width: 500px;
 }
 
 .NBA-info .info2 .infos-text h3{
-    font-size: 1.2em;
+    font-size: 1.5em;
     width: 250px;
     text-align: center;
     color: var(--cor2);
+    font-family: 'Roboto Condensed', sans-serif;
 }
 .NBA-info img{
     margin-right: 50px;
@@ -114,6 +115,7 @@ width: 500px;
 .NBA-info h1{
     width: 400px;
     color: var(--cor1);
+    
 }
 
 /* ASIDE */
@@ -125,8 +127,9 @@ aside{width: 100%;
 
 aside h3{
     font-size: 1.5em;
-    padding-left: 70px;
+    padding:0px 0px 0px 70px;
     font-style: italic;
+    color: var(--cor3);
 }
 
 /* CARDS */
@@ -147,6 +150,8 @@ max-width: 1000px;
 min-width: 500px;
 height: 600px;
 margin-bottom: 100px;
+border-radius: 10px;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .card .img-card{
@@ -157,12 +162,14 @@ margin-bottom: 100px;
 
 .card .img-card img{
     width: 100%;
+    border-radius: 10px 10px;
 }
 
 .card .text-info-card{
     height: 100%;
     background-color: var(--cor1);
     color: var(--cor2);
+    border-radius:0px 0px 10px  10px;
     padding: 20px;
 }
 

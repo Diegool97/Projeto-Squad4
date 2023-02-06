@@ -67,7 +67,7 @@ function Main() {
         <section className=' text-info-card'>
         <h1>QUAIS SÃO OS TIMES MAIS NOVOS DA NBA?</h1>
             <span>Nuggets, Pacers, Mavericks, Hornets...</span>
-            <h3>Onde fiz essa consulta e como?</h3>
+            <h3>Onde fizemos essa consulta e como?</h3>
             <ul>
                 <li>Fizemos pelo PhpMyAdmin</li>
                 <li>SELECT nickname, yearfounded FROM teams ORDER BY yearfounded ASC</li>
@@ -85,13 +85,12 @@ function Main() {
          
         </section>
         <section className=' text-info-card'>
-        <h1>QUAL TIME X MAIS GANHOU?</h1>
-            <span>“tal time foi o que mais ganhou na temporada 12”</span>
-            <h3>.Como e onde fiz essa consulta?</h3>
+        <h1>Quais são os times com maior capacidade de arena?</h1>
+            <span>Bulls, Pistons, Wizards, Cavaliers...</span>
+            <h3>Onde fizemos essa consulta e como?</h3>
             <ul>
-                <li>fiz tal coisa</li>
-                <li>fiz tal coisa</li>
-                <li>fiz tal coisa</li>
+                <li>Fizemos pelo PhpMyAdmin</li>
+                <li>SELECT nickname, arenacapacity FROM teams ORDER BY arenacapacity DESC LIMIT 10</li>
             </ul>
             
         </section>

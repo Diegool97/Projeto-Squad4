@@ -62,7 +62,7 @@ apresentação com a exploração dos dados.
 <img src="https://user-images.githubusercontent.com/112782424/217072240-f9972199-5596-43f3-b3d8-5ef3e8751193.png">
 <br><br>
 
-Link do nosso projeto <a href="https://squad-4-phi.vercel.app/">AQUI<a>
+Link do nosso projeto <a href="">AQUI<a>
 
 
 <br>

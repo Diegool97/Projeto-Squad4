@@ -49,9 +49,9 @@ apresentação com a exploração dos dados.
 
 <h2 id="andamento">Andamento do projeto 📈</h2>
 
-<!-- <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/> -->
+ <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/> 
 
-> :construction: Projeto em construção :construction:
+<!-- > :construction: Projeto em construção :construction: -->
 
 
 <br>
@@ -59,22 +59,24 @@ apresentação com a exploração dos dados.
 
 <h2 id="projeto">Nosso projeto 🎨</h2>
 
-<!-- href para colocar imagem -->
-<a href="" target="_blank"></a>
+<img src="https://user-images.githubusercontent.com/112782424/217072240-f9972199-5596-43f3-b3d8-5ef3e8751193.png">
+<br><br>
+
+Link do nosso projeto <a href="https://squad-4-phi.vercel.app/">AQUI<a>
+
 
 <br>
 
 
 <h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto 📚</h2>
 
-  - [x] HTML5
-  - [x] CSS3
+  - [x] REACT
   - [x] Excel/Power BI
   - [x] Github
     
 <br>
     
-  <h2 id="linguagens">Ferramentas utilizadas para meios de comunicação e design 📚</h2>
+  <h2 id="linguagens">Ferramentas utilizadas para meios de comunicação 📚</h2>
     
   - [x] Discord
   - [x] WhatsApp
